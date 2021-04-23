@@ -2,3 +2,13 @@ body {
   font-family: sans-serif;
   background-color: #ffffff;
 }
+
+.Feedback {
+  padding: 15px;
+  max-width: 400px;
+}
+
+.Feedback__controls {
+  display: flex;
+  justify-content: space-between;
+}
